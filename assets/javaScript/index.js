@@ -1,3 +1,5 @@
+// ejercicio1
+
 // const temperatura = prompt("Temperatura actual")
 
 // if (temperatura > 30)
